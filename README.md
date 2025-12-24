@@ -74,7 +74,7 @@ erDiagram
 flowchart LR
     Dispatcher[Диспетчер]
     Management[Руководство]
-    System[ИС "Автобусный парк"]
+    System[ИС Автобусный парк]
 
     Dispatcher -->|Данные о рейсах| System
     System -->|Отчеты| Management
